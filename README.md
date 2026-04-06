@@ -115,14 +115,6 @@ npm install
 npm start
 
 
-👥 VOYA Team (App)
-
-* **Team Leader**:  Toka osama elqersh
-* **Front-End Developer**: Eman Ahmed Zyada Elsherbiny
-* **Front-End Developer**:  Abdelrhman Ibrahim Kamal
-* **Front-End Developer**:  Ahmed Aziz Fahmy Mohamed
-* **Front-End Developer**: Khairy Abdelwahab Naiem
-* **Front-End Developer**: Asmaa Adel Ghalab
 
 📌 Notes
 
